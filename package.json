@@ -5,6 +5,11 @@
   "main": "main.js",
   "author": "sadman-shami <srahyme413@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "private": false,
   "devDependencies": {
     "autoprefixer": "^10.4.13",
