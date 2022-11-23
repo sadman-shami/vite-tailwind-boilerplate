@@ -1,5 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 @tailwind base;
+@layer base {
+  ::-webkit-scrollbar {
+    background: #2f2f2f;
+    border-radius: 0.5rem;
+    width: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #ebebeb99;
+    border-radius: 0.5rem;
+  }
+}
 @tailwind components;
 @tailwind utilities;
