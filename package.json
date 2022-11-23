@@ -6,6 +6,9 @@
   "author": "sadman-shami <srahyme413@gmail.com>",
   "license": "MIT",
   "type": "module",
+  "repository": {
+    "url": " https://github.com/sadman-shami/vite-tailwind-boilerplate"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
