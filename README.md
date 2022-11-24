@@ -1,5 +1,7 @@
 # Vite Js and Tailwind CSS Boilerplate
 
+![](screen.png)
+
 ### Used Library
 
 - `vite`
