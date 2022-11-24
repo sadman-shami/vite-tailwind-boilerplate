@@ -16,7 +16,7 @@
 git clone https://github.com/sadman-shami/vite-tailwind-boilerplate.git
 cd vite-tailwind-boilerplate
 
-# this will install all dependencies
+# install dependencies 🧶
 yarn
 ```
 
