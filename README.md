@@ -24,7 +24,7 @@ yarn
 
 When you use this template, update the followings:
 
-- [ ] Remove `.git` directory and run `git init -b main` to clean the commit history.
+- [ ] Remove `.git` directory and run `git init` to clean the commit history.
 - [ ] Cleanup `README.md` file.
 
 **Now you can enjoy 😁**
