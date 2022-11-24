@@ -26,6 +26,7 @@ When you use this template, update the followings:
 
 - [ ] Remove `.git` directory and run `git init` to clean the commit history.
 - [ ] Cleanup `README.md` file.
+- [ ] Delete `screen.png` file.
 
 **Now you can enjoy 😁**
 
