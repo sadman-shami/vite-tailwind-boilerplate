@@ -3,13 +3,10 @@
 @tailwind base;
 @layer base {
   ::-webkit-scrollbar {
-    background: #2f2f2f;
-    border-radius: 0.5rem;
-    width: 10px;
+    @apply w-2 rounded-3xl bg-custom-black-2;
   }
   ::-webkit-scrollbar-thumb {
-    background: #ebebeb99;
-    border-radius: 0.5rem;
+    @apply rounded-3xl bg-custom-gray;
   }
 }
 @tailwind components;
