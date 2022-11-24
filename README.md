@@ -31,9 +31,9 @@ When you use this template, update the followings:
 
 The starter contains the following scripts:
 
-- `dev` - start a vite dev server 🚀
-- `build` - build the project 📦
-- `preview` - preview build 🎉
+- `yarn dev` - start a vite dev server 🚀
+- `yarn build` - build the project 📦
+- `yarn preview` - preview build 🎉
 
 # Acknowledgement
 
