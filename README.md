@@ -2,10 +2,10 @@
 
 ### Used Library
 
-- Vite: 3.2.4
-- Tailwindcss: 3.2.4
-- Postcss: 8.4.19
-- Autoprefixer: 10.4.13
+- Vite
+- Tailwindcss
+- Postcss
+- Autoprefixer
 
 # Clone the repo to local
 
