@@ -2,10 +2,10 @@
 
 ### Used Library
 
-- Vite
-- Tailwindcss
-- Postcss
-- Autoprefixer
+- `vite`
+- `tailwindcss`
+- `postcss`
+- `autoprefixer`
 
 # Clone the repo to local
 
