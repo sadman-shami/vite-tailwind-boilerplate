@@ -10,9 +10,9 @@
     "url": " https://github.com/sadman-shami/vite-tailwind-boilerplate"
   },
   "scripts": {
-    "dev": "vite --port 3000",
+    "dev": "vite --port 3000 --host",
     "build": "vite build",
-    "preview": "vite preview --port 3000"
+    "preview": "vite preview --port 3000 --host"
   },
   "private": false,
   "devDependencies": {
