@@ -18,6 +18,9 @@ cd vite-tailwind-boilerplate
 
 # install dependencies 🧶
 
+# npm
+npm i
+
 # yarn
 yarn
 
@@ -50,6 +53,12 @@ The starter contains the following scripts:
 - `pnpm run dev` - start a vite dev server 🚀
 - `pnpm run build` - build the project 📦
 - `pnpm run preview` - preview build 🎉
+
+### Npm
+
+- `npm run dev` - start a vite dev server 🚀
+- `npm run build` - build the project 📦
+- `npm run preview` - preview build 🎉
 
 # Acknowledgement
 
