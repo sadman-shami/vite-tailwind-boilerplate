@@ -17,7 +17,12 @@ git clone https://github.com/sadman-shami/vite-tailwind-boilerplate.git
 cd vite-tailwind-boilerplate
 
 # install dependencies 🧶
+
+# yarn
 yarn
+
+# pnpm
+pnmp i
 ```
 
 # Checklist
@@ -34,9 +39,17 @@ When you use this template, update the followings:
 
 The starter contains the following scripts:
 
+### Yarn
+
 - `yarn dev` - start a vite dev server 🚀
 - `yarn build` - build the project 📦
 - `yarn preview` - preview build 🎉
+
+### pnpm
+
+- `pnpm run dev` - start a vite dev server 🚀
+- `pnpm run build` - build the project 📦
+- `pnpm run preview` - preview build 🎉
 
 # Acknowledgement
 
