@@ -48,7 +48,7 @@ The starter contains the following scripts:
 - `yarn build` - build the project 📦
 - `yarn preview` - preview build 🎉
 
-### pnpm
+### Pnpm
 
 - `pnpm run dev` - start a vite dev server 🚀
 - `pnpm run build` - build the project 📦
