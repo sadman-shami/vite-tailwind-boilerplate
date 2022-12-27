@@ -25,7 +25,7 @@ npm i
 yarn
 
 # pnpm
-pnmp i
+pnmp
 ```
 
 # Checklist
