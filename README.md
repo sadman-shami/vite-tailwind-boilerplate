@@ -50,9 +50,9 @@ The starter contains the following scripts:
 
 ### Pnpm
 
-- `pnpm run dev` - start a vite dev server 🚀
-- `pnpm run build` - build the project 📦
-- `pnpm run preview` - preview build 🎉
+- `pnpm dev` - start a vite dev server 🚀
+- `pnpm build` - build the project 📦
+- `pnpm preview` - preview build 🎉
 
 ### Npm
 
